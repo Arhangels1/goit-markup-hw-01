@@ -65,6 +65,6 @@
 
 # Web Studio
 
-![Web Page](./images/screen.png)
+![Web Page](./screen.png)
 
 ---
